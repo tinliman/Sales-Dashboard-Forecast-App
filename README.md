@@ -1,4 +1,6 @@
 # Sales-Dashboard-Forecast-App
+https://github.com/tinliman/Sales-Dashboard-Forecast-App
+
 This sales forecasting dashboard is designed to help businesses analyze past sales data and make informed predictions about future sales performance. With interactive visualizations and intuitive controls, this dashboard provides a user-friendly interface for exploring historical sales trends, identifying patterns, and generating forecasts.
 
 The dashboard leverages Flexdashboard and Shiny to create a dynamic and responsive user experience. Users can input various parameters, such as time periods, product categories, or geographical regions, to customize their analysis and view sales data from different perspectives. The dashboard also offers interactive charts, such as line graphs and bar charts, to display sales trends over time or compare performance across different segments.
